@@ -1,5 +1,7 @@
 
 //obtendrías solo uno de los nombres y en mayúscula
+
+
 const personas = [
     { nombre: "Ana", edad: 25 },
     { nombre: "Luis", edad: 30 },
