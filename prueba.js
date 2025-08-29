@@ -3,9 +3,9 @@
 
 
 const personas = [
-    { nombre: "Gabriel", edad: 25 },
-    { nombre: "Ana", edad: 30 },
-    { nombre: "Roberto", edad: 22 }
+    { nombre: "Carlos", edad: 25 },
+    { nombre: "Santa", edad: 30 },
+    { nombre: "Maria", edad: 22 }
   ];
   
   /*defino la funcion con dos parametros, el nombre del arreglo y el nombre a buscar*/ 
